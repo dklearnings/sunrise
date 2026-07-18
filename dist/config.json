@@ -1,0 +1,156 @@
+{
+  "schoolName": "Sunrise Valley Public School",
+  "shortName": "Sunrise Valley",
+  "motto": "Gyanam Param Balam",
+  "mottoTranslation": "Knowledge is the greatest strength",
+  "tagline": "An English-medium, co-educational CBSE school in the heart of Kolkata",
+  "board": "Affiliated to CBSE, New Delhi \u00b7 Affiliation No. 1930XXXX",
+  "founded": 1978,
+
+  "contact": {
+    "address": "42 Lake Gardens Avenue, Salt Lake City, Kolkata \u2013 700091",
+    "phone": "033 2335 1249",
+    "altPhone": "+91 98300 00000",
+    "email": "info@sunrisevalley.edu.in",
+    "officeHours": "Mon \u2013 Sat, 8:00 AM \u2013 3:30 PM"
+  },
+
+  "socials": {
+    "facebook": "#",
+    "youtube": "#",
+    "instagram": "#"
+  },
+
+  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.05!2d88.4021!3d22.5773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0275da1854939f%3A0x4c0176560eb21617!2sSalt+Lake+City%2C+Kolkata!5e0!3m2!1sen!2sin!4v1542787194175",
+
+  "payments": {
+    "feePaymentUrl": "https://payments.sunrisevalley.edu.in/parent-login",
+    "onlineAdmissionUrl": "https://admissions.sunrisevalley.edu.in/apply",
+    "note": "Both links hand off to separate, already-deployed applications (a fee-payment portal and an admissions portal). This site only links out to them; it does not process payments or applications itself."
+  },
+
+  "nav": [
+    { "label": "Home", "id": "home" },
+    {
+      "label": "About",
+      "id": "about",
+      "children": [
+        { "label": "Our Story", "id": "about" },
+        { "label": "Principal's Message", "id": "principal" },
+        { "label": "Rules & Uniform", "id": "programs" }
+      ]
+    },
+    { "label": "Academics", "id": "programs" },
+    { "label": "Notices", "id": "notices" },
+    { "label": "Infrastructure", "id": "infrastructure" },
+    { "label": "Gallery", "id": "gallery" },
+    { "label": "Contact", "id": "contact" }
+  ],
+
+  "announcementBar": "Admissions open for Academic Session 2027\u201328 \u00b7 Prep-I to Class IX \u00b7 Apply before 15 August 2026",
+
+  "hero": {
+    "eyebrow": "Est. 1978 \u00b7 CBSE Co-Educational",
+    "heading": "Where every child finds their own kind of brilliance",
+    "body": "Sunrise Valley has spent four decades building confident, curious learners \u2014 grounding rigorous academics in kindness, discipline and the courage to ask questions.",
+    "primaryCta": { "label": "Apply for admission", "target": "admissions" },
+    "secondaryCta": { "label": "Read latest notices", "target": "notices" },
+    "quote": {
+      "text": "The training by which the current and expression of will are brought under control and become fruitful \u2014 that is education.",
+      "author": "Swami Vivekananda"
+    }
+  },
+
+  "stats": [
+    { "label": "Years of teaching", "value": "48", "icon": "Award" },
+    { "label": "Students on campus", "value": "2,100+", "icon": "Users" },
+    { "label": "Class X & XII pass rate", "value": "99.2%", "icon": "Trophy" },
+    { "label": "Qualified faculty", "value": "140+", "icon": "GraduationCap" }
+  ],
+
+  "principal": {
+    "name": "Mrs. Ananya Bhattacharya",
+    "designation": "Principal",
+    "message": "We measure this school not by the marks on a report card alone, but by the questions our students learn to ask, the kindness they carry into a room, and their readiness to meet a changing world with steady confidence. That is the promise every teacher here works toward, every single day.",
+    "signOff": "\u2014 Mrs. Ananya Bhattacharya"
+  },
+
+  "programs": [
+    {
+      "title": "Pre-Primary",
+      "range": "Nursery \u2013 UKG",
+      "description": "Play-based learning that builds language, motor skills and social confidence through stories, music and guided discovery.",
+      "icon": "Sparkles"
+    },
+    {
+      "title": "Primary",
+      "range": "Class I \u2013 V",
+      "description": "A strong foundation in literacy, numeracy and inquiry, with dedicated periods for art, music and physical education.",
+      "icon": "BookOpen"
+    },
+    {
+      "title": "Middle & Secondary",
+      "range": "Class VI \u2013 X",
+      "description": "CBSE curriculum delivered through activity-based, technology-supported classrooms, building toward the Class X board exam.",
+      "icon": "Microscope"
+    },
+    {
+      "title": "Senior Secondary",
+      "range": "Class XI \u2013 XII",
+      "description": "Science, Commerce and Humanities streams with focused mentoring for board examinations and competitive entrance tests.",
+      "icon": "GraduationCap"
+    }
+  ],
+
+  "infrastructure": [
+    { "title": "Library", "description": "22,000+ titles across two reading halls, open through the school day.", "icon": "Library" },
+    { "title": "Science Laboratories", "description": "Dedicated Physics, Chemistry, Biology and Computer Science labs.", "icon": "Microscope" },
+    { "title": "Sports & Games", "description": "Basketball and volleyball courts, athletics track and indoor games hall.", "icon": "Dumbbell" },
+    { "title": "Art & Music Room", "description": "Space and instruments for visual art, classical and contemporary music.", "icon": "Palette" },
+    { "title": "Auditorium", "description": "500-seat air-conditioned auditorium for assemblies and annual events.", "icon": "Building2" },
+    { "title": "Safe Transport", "description": "GPS-tracked bus fleet covering Salt Lake, New Town and Rajarhat routes.", "icon": "Bus" }
+  ],
+
+  "notices": [
+    { "date": "2026-07-14", "tag": "Circular", "title": "Regular classes suspended on 21.07.2026 for Primary and Secondary sections" },
+    { "date": "2026-07-14", "tag": "PTM", "title": "Parent\u2013Teacher Meeting (Term I) and Periodic Test 1 answer script distribution schedule" },
+    { "date": "2026-07-01", "tag": "Fees", "title": "Second quarter tuition fee payment window now open \u2014 Academic Session 2026\u201327" },
+    { "date": "2026-06-30", "tag": "Exam", "title": "Revised schedule for Periodic Test I, Academic Session 2026\u201327" },
+    { "date": "2026-06-19", "tag": "Result", "title": "Distribution of Class XII CBSE board mark sheets (Session 2025\u201326)" },
+    { "date": "2026-06-15", "tag": "Admission", "title": "Admission notice for Preparatory-I, Academic Session 2027\u201328" }
+  ],
+
+  "gallery": [
+    { "caption": "Annual Sports Day", "category": "Sports", "tone": "coral" },
+    { "caption": "Independence Day Assembly", "category": "Events", "tone": "navy" },
+    { "caption": "Science Exhibition", "category": "Academics", "tone": "teal" },
+    { "caption": "Inter-house Music Fest", "category": "Arts", "tone": "gold" },
+    { "caption": "Investiture Ceremony", "category": "Events", "tone": "maroon" },
+    { "caption": "Class XII Farewell", "category": "Culture", "tone": "navy" },
+    { "caption": "Robotics Club Demo", "category": "Academics", "tone": "teal" },
+    { "caption": "Community Cleanliness Drive", "category": "Outreach", "tone": "coral" }
+  ],
+
+  "footerLinks": [
+    { "label": "Mandatory Public Disclosure", "id": "contact" },
+    { "label": "Fee Structure", "id": "contact" },
+    { "label": "TC Verification", "id": "contact" },
+    { "label": "Careers", "id": "contact" }
+  ],
+
+  "colors": {
+    "navy": "#152447",
+    "navyLight": "#1F3462",
+    "navySoft": "#EDF0F8",
+    "gold": "#D9A441",
+    "goldDeep": "#B9822A",
+    "maroon": "#7C2D33",
+    "paper": "#FAF7EF",
+    "cream": "#F3EEDF",
+    "ink": "#1C1E24",
+    "inkSoft": "#585C66",
+    "line": "#E4DFCF",
+    "teal": "#2F6E62",
+    "white": "#FFFFFF"
+  }
+}
